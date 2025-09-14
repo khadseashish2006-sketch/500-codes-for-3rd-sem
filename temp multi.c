@@ -17,3 +17,4 @@ int main()
     return 0;
 
 }
+// This program multiplies two floating-point numbers A and B and prints the result.

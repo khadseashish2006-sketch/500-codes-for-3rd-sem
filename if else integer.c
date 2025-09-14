@@ -24,3 +24,5 @@
 }
 return 0;
 }
+
+// This program checks if a number is less than 50, between 50 and 70, or greater than 70.

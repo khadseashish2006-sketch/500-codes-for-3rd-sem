@@ -21,5 +21,7 @@ void main()
          printf("Patient condition:CRITICAL\n");
          }
     } 
+
+    // This program checks patient body temperature and categorizes the condition.
     
   

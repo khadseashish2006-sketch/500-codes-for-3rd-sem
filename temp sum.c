@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    floatA, B, sum;
+    float A, B, sum;
     printf("Enter the temperature of sensor A:\n");
     scanf("%f", &A);
     printf("Enter the temperature of sensor B:\n");
@@ -10,3 +10,6 @@ int main() {
     printf("Total temp of sensors: %f\n", sum);
     
 }
+
+
+// This program adds two floating-point numbers A and B and prints the result.
